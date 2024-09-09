@@ -17,4 +17,4 @@ Since last time I used ord/chr methods, and I wanted to use a dictionary this ti
 
 ## Simple RSA
 
-So this is still somewhat a work in progress, I have just uploaded what I have done so far but I will come back to it at a later date. It does work somewhat but I think I need to look into converting the letters into hexademical or something like that rather than just decimal. 
+So this is still somewhat a work in progress, I have just uploaded what I have done so far but I will come back to it at a later date. It does work somewhat but I think I need to look into converting the letters into hexademical or something like that rather than just decimal. Also I need to add some calculations I did by hand to the program.
