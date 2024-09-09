@@ -83,3 +83,7 @@ plaintext = ''.join(decrypted)
 print("plaintext: " + plaintext)
 
 #ok so overall its ok BUT a larger value than 14 needs to be used, something bigger than 26 i guess hmmmmmmmm
+#what to do for next time:
+#-hex values or similar for covnerting letters to
+#find a way to distinguish these values when all joined toghether in one string
+#add a way to factor numbers into code for rsa calc method
